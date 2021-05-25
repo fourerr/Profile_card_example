@@ -1,4 +1,4 @@
 # Profile_card_example
 example of profile card using HTML &amp; CSS
 
-![Optional Text](../main/project_1/images/final_website.png)
+![Optional Text](../main/images/final_website.png)
